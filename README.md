@@ -1,2 +1,3 @@
 # first-repo
-fist git repository
+This is my first git repository
+Author--PUTTU KAVYA
